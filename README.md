@@ -6,7 +6,7 @@
 
 ## 📥 Скачать
 
-[**Скачать архив pv3300_txt.zip**]()
+[**Скачать архив slavic_songs_pesni_vozrozhdeniia_v1.0.zip**](https://github.com/maksimus12/-3300-ProPresenter/releases/latest/)
 
 ## 📋 Содержимое
 
