@@ -6,7 +6,7 @@
 
 ## 📥 Скачать
 
-[**Скачать архив pv3300_txt.zip**](https://github.com/YOUR_USERNAME/pv3300/releases/latest/download/pv3300_txt.zip)
+[**Скачать архив pv3300_txt.zip**]([https://github.com/YOUR_USERNAME/pv3300/releases/latest/download/pv3300_txt.zip](https://github.com/maksimus12/-3300-ProPresenter/archive/refs/heads/main.zip))
 
 ## 📋 Содержимое
 
